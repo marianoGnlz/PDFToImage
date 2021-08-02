@@ -1,0 +1,11 @@
+C:\Users\Mariano\source\repos\PDFToImage\PDFToImage\bin\Release\netcoreapp3.1\publish\PDFToImage.exe
+C:\Users\Mariano\source\repos\PDFToImage\PDFToImage\bin\Release\netcoreapp3.1\publish\PDFToImage.dll
+C:\Users\Mariano\source\repos\PDFToImage\PDFToImage\bin\Release\netcoreapp3.1\publish\PDFToImage.deps.json
+C:\Users\Mariano\source\repos\PDFToImage\PDFToImage\bin\Release\netcoreapp3.1\publish\PDFToImage.runtimeconfig.json
+C:\Users\Mariano\source\repos\PDFToImage\PDFToImage\bin\Release\netcoreapp3.1\publish\PDFToImage.pdb
+C:\Users\Mariano\source\repos\PDFToImage\PDFToImage\bin\Release\netcoreapp3.1\publish\Ghostscript.NET.dll
+C:\Users\Mariano\source\repos\PDFToImage\PDFToImage\bin\Release\netcoreapp3.1\publish\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mariano\source\repos\PDFToImage\PDFToImage\bin\Release\netcoreapp3.1\publish\System.Drawing.Common.dll
+C:\Users\Mariano\source\repos\PDFToImage\PDFToImage\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Mariano\source\repos\PDFToImage\PDFToImage\bin\Release\netcoreapp3.1\publish\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Mariano\source\repos\PDFToImage\PDFToImage\bin\Release\netcoreapp3.1\publish\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
